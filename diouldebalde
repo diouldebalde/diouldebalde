@@ -1,0 +1,6 @@
+echo"#diouldebalde">>READE.md
+git init
+git ajouter READE.md
+git commit-m"premier commit"
+git remote ajouter une origine https://github.com/diouldebalde/diouldebalde.git
+git push-u origine master
